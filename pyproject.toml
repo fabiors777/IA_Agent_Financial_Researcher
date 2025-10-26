@@ -1,0 +1,13 @@
+[project]
+name = "ia-agentes-financeiro"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "agno>=2.0.0",
+    "openai>=1.46.0",
+    "python-dotenv>=1.0.1",
+    "sqlalchemy>=2.0.44",
+    "yfinance>=0.2.66",
+]
